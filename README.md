@@ -35,6 +35,5 @@ HostelMealManagementSystem/
 ## Author
 
 **Moumeta Hena**
-
-Department of Computer Science & Engineering
+Department of Computer Science & Engineering,
 Bangladesh University of Professionals (BUP)
