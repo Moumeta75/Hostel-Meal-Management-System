@@ -1,8 +1,8 @@
-Hostel Meal Management System
+# Hostel Meal Management System
 
-A simple "Java-based Hostel Meal Management System" for managing student information and meal records.
+A simple **Java-based Hostel Meal Management System** for managing student information and meal records.
 
-Features
+## Features
 
 * Add new students
 * Add meals to students
@@ -10,28 +10,30 @@ Features
 * View all students and their total meals
 * Prevent duplicate student IDs
 
-Technologies Used
+## Technologies Used
 
-* Java
-* ArrayList
-* Scanner
-* Object-Oriented Programming (OOP)
+* **Java**
+* **ArrayList**
+* **Scanner**
+* **Object-Oriented Programming (OOP)**
 
-How to Run
+## How to Run
 
 1. Clone or download the repository.
-2. Open the project in any Java IDE such as NetBeans, IntelliJ IDEA, or Eclipse.
-3. Run the Main.java file.
+2. Open the project in any Java IDE such as **NetBeans**, **IntelliJ IDEA**, or **Eclipse**.
+3. Run the `Main.java` file.
 4. Select an option from the menu and follow the instructions.
 
-Project Structure
+## Project Structure
 
-text
+```text
 HostelMealManagementSystem/
 │
 └── Main.java
+```
 
+## Author
 
-Author
-
-"Moumeta Hena"
+**Moumeta Hena**
+Department of Computer Science & Engineering
+Bangladesh University of Professionals (BUP)
